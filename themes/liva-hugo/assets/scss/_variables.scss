@@ -1,0 +1,59 @@
+// Color Variables
+$primary-color: #aa1100;
+$text-color: #fff;
+$text-color-dark: #fff;
+$text-color-light: #fff;
+$body-color: #000;
+$border-color: #f95437;
+$black: #000;
+$white: #fff;
+$gray: #fff;
+
+.post-meta span {
+    color: #fff !important;
+}
+
+.card {
+    background-color: #000;
+}
+
+.text-primary, .navbar-white .navbar-nav .nav-link {
+    font-weight: 900;
+}
+
+.pagination .page-link {
+    background: #000 !important;
+}
+
+.pagination .page-item .page-link {
+    color: #fff !important;
+}
+
+.content table{
+    background: #000 !important;
+    border: none !important;
+}
+
+td, th {
+    background: #000 !important;
+}
+
+.content table th, .content table td {
+    border: none !important;
+}
+
+.content a{
+    font-weight: 800;
+}
+// Font Variables
+$primary-font: 'Raleway', sans-serif;
+$icon-font: 'themify';
+
+#headline {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+i {
+    font-size: 25px;
+}
